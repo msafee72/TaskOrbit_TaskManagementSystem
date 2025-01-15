@@ -1,12 +1,11 @@
 # TaskOrbit_TaskManagementSystem
 A web-based task management system
 
-
 #Frontend:
-Download the project and extract it.
-Open in Visual Studio Code and run these commands in terminal:
-npm-install
-npm-start
+1. Download the project and extract it.
+2. Open in Visual Studio Code and run these commands in terminal:
+3. npm-install
+4. npm-start
 
 #Backend:
 1. Make clone of the repository 
